@@ -1,6 +1,12 @@
+@font-face {
+      font-family: 'Retro';
+      src: url(fonts/Retro\ Gaming.ttf) format('truetype');
+}
+
 body {
-      font-family:'Courier New', Courier, monospace;
+      font-family:'Retro', Courier, monospace;
       text-align: center;
+      background-color: rgba(32, 32, 32, 0.479);
   }
   
   #board {
